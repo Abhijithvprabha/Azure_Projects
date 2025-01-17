@@ -108,3 +108,19 @@ Rules are defined by:
 
 - [Azure Virtual Network Documentation](https://learn.microsoft.com/en-us/azure/virtual-network/)
 - [Azure Network Security Groups (NSG) Overview](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
+
+### What is a Resource Group?
+
+A resource group in Azure is a container for managing related resources in a solution. It allows you to deploy, update, and delete resources together, ensuring coordinated operations. When the solution is no longer needed, deleting the resource group removes all associated resources.
+
+**Key Points:**
+- Resources in a group should share the same lifecycle (deploy, update, delete).
+- A resource can only belong to one resource group but can connect to resources in others.
+- You can add, remove, or move resources between groups anytime.
+- Resources can be in different regions than the group, but aligning locations is recommended.
+- Resource groups support access control via Azure Policies, roles, or locks.
+- Tags can be applied to groups, but resources don’t inherit them.
+- Deleting a group removes all its resources.
+- Groups can host up to 800 instances of a resource type (exceptions apply).
+
+**Creation Options:** Use the Azure portal, PowerShell, CLI, or ARM templates to create resource groups.
