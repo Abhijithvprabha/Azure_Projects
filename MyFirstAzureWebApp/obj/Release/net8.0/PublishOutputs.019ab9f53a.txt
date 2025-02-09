@@ -1,0 +1,7 @@
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.exe
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.dll
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.deps.json
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\abhip\OneDrive\XPS\2025\HomeLab\Azure Cloud\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.pdb
